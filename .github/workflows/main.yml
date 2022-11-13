@@ -17,4 +17,4 @@ jobs:
           server: ${{ secrets.ftp_host }}
           username: ${{ secrets.ftp_user }}
           password: ${{ secrets.ftp_password }}
-          server-dir: /home2/nicani24/offmuller.com/app/production/html_email_tester
+          server-dir: /home2/nicani24/offmuller.com/app/production/html_email_tester/
