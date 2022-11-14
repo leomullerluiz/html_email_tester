@@ -12,6 +12,7 @@ textarea{
     overflow: scroll;
     background: #f4f4f9;
     font-size: 14px;
+    height: 400px;
 }
 
 iframe{
