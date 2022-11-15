@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+    <a href="https://github.com/offmuller/html_email_tester" target="_blank">github</a>
     <form action="send_email.php" method="POST">
         <input type="text" name="email" placeholder="e-mail"/> <br>
         <textarea name="message" id="html" placeholder="HTML"></textarea> <br>
